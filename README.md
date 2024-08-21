@@ -1,5 +1,10 @@
 # JalaliDatePicker
 
+## About The Project
+
+![Screen Shot](https://github.com/NarliTavahin/time-date-picker/blob/main/2024-08-21_20-12.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
 ## Development server
